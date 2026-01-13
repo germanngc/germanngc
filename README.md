@@ -143,6 +143,9 @@ Universidad de Guadalajara, Puerto Vallarta, México.
 
 ## 📜 **Certifications**
 
+- GitHub Actions – Microsoft
+*Issued: 2026* – *Expires: Jan, 2028*
+
 - AWS Cloud Practitioner Certification – AWS Training & Certifications
 *Issued: 2025* – *Expires: Jan, 2028*
 
