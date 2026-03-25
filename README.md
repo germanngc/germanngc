@@ -144,6 +144,9 @@ Universidad de Guadalajara, Puerto Vallarta, México.
 ## 📜 **Certifications**
 
 - GitHub Actions – Microsoft
+*Issued: 2026* – *Expires: Mar, 2036*
+
+- Claude Code in Action – Anthropic
 *Issued: 2026* – *Expires: Jan, 2028*
 
 - AWS Cloud Practitioner Certification – AWS Training & Certifications
