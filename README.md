@@ -23,6 +23,8 @@ Guadalajara, México
   - Ensure best practices on Cloud design and implementation.
   - Align goals for customers based on resources and capacities.
   - Investigate, Test and Implement new tech and stack that will benefint the infrastructure of customers.
+  - Asses, implement, secure and validate the use on Machine Learning Models and their integrations on the pipelines.
+  - Accelerate the development and engagement with AI tools.
 
 ---
 
@@ -141,7 +143,10 @@ Universidad de Guadalajara, Puerto Vallarta, México.
 
 ---
 
-## 📜 **Certifications**
+## 📜 **Certifications & Skills**
+
+- MongoDB Query Optimization Techniques
+*Issued: 2026* – *Expires: Apr, 2036*
 
 - Claude Code in Action – Anthropic
 *Issued: 2026* – *Expires: Mar, 2036*
