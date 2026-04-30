@@ -1,206 +1,168 @@
 # German Gonzalez
 
-**Position:** Platform Architect 
+**Platform Architect | DevOps | Cloud & AI Enablement**
 
-[LinkedIn Profile](https://linkedin.com/in/germanngc) | [Credly](https://www.credly.com/users/germanngc)
-
----
-
-## 📝 **Summary**
-
-
-Experienced professional in DevOps and software development with a strong focus on automation, security, and cloud infrastructure with over 15 years of experience. Expertise includes implementing end-to-end CI/CD workflows, enhancing application security, and optimizing deployment pipelines. Proficient in managing multidisciplinary projects, supporting both on-premise and cloud environments (AWS), and leveraging a wide range of tools and methodologies to streamline processes. Skilled in planning, delivering, and maintaining scalable solutions, with hands-on experience in API development, infrastructure advisory, and business operations. Demonstrated success in integrating security practices, driving innovation, and delivering high-quality technical solutions in dynamic and collaborative environments.
+[LinkedIn](https://linkedin.com/in/germanngc) | [Credly](https://www.credly.com/users/germanngc)
 
 ---
 
-## 💼 **Work Experience**
+## 📝 Summary
 
-### **Platform Architect** – Slalom
-*Dates (Feb 2025 – Present)*  
-Guadalajara, México  
+Platform Architect with 15+ years of experience designing and scaling cloud-native systems, DevOps platforms, and secure software delivery pipelines. Specialized in AWS, Infrastructure as Code, and CI/CD automation, with a strong focus on enabling engineering teams to deliver faster and more reliably.
 
-- **Key Responsibilities:**
-  - Ensure best practices on Cloud design and implementation.
-  - Align goals for customers based on resources and capacities.
-  - Investigate, Test and Implement new tech and stack that will benefint the infrastructure of customers.
-  - Asses, implement, secure and validate the use on Machine Learning Models and their integrations on the pipelines.
-  - Accelerate the development and engagement with AI tools.
+Proven track record leading platform transformations, integrating security into development workflows, and driving adoption of modern architectures including Kubernetes, serverless, and AI-assisted development.
+
+Combines deep technical expertise with strategic thinking—bridging business needs and engineering execution to deliver scalable, cost-efficient, and resilient solutions.
 
 ---
 
-### **Platform Architect** – Nina Code
-*Dates (Oct 2024 – Feb 2025)*  
-Guadalajara, Jalisco
+## 💼 Work Experience
 
-- **Key Responsibilities:**
-  - Working on diverse freelance projects of varying complexity and maturity.
-  - Regularly collaborated with clients to design scalable solutions on AWS, utilizing EKS, S3, and Lambda.
-  - Focusing on DevOps practices, including continuous integration/continuous deployment (CI/CD) using languages like Groovy and YAML.
-  - Designing and managing cloud-based solutions for scalability and reliability.
-  - Implementing robust security measures and ensuring secure networking practices.
-  - Wrote automation scripts using Python and Bash, reducing manual workload and increasing deployment efficiency.
-  - Creating connectors and APIs to enable seamless integration between systems.
-  - Providing end-to-end software implementation services tailored to client needs.
-  - Monitored serverless application performance using Datadog, ensuring uptime and quick issue resolution for client projects.
-  - Configured and maintained GitHub Actions workflows for seamless integration and deployment, reducing build errors by 20%.
-  - Created and managed deployment templates in Helm, streamlining CI/CD pipelines for Kubernetes applications.
+### **Platform Architect** – Slalom  
+
+*Feb 2025 – Present | Guadalajara, México*
+
+- Lead cloud architecture initiatives for enterprise clients, ensuring scalable, secure, and cost-efficient solutions.
+- Advise stakeholders on platform strategy, aligning technical capabilities with business objectives.
+- Evaluate and implement emerging technologies, including AI/ML integrations into CI/CD and operational workflows.
+- Define best practices across cloud architecture, DevOps, and security.
+- Accelerate engineering teams through adoption of automation, AI tools, and modern development practices.
 
 ---
 
-### **Sr DevOps Enablement Engineer** – FICO
-*Dates (Feb 2020 – Oct 2024)*  
-Guadalajara, Jalisco
+### **Platform Architect** – Nina Code  
 
-- **Key Responsibilities:**
-  - Supported multiple product teams by maintaining CI/CD pipelines using Jenkins, GitHub Actions, and Puppet in languages as Groovy, Ruby and YAML.
-  - Providing technical leadership and strategic direction to ensure alignment across teams.
-  - Transforming development and testing practices into a streamlined, continuous quality engineering function.
-  - Ensuring accuracy, integrity, and control through robust quality processes, tools, and methodologies.
-  - Collaborating with cross-functional teams to refine CI/CD pipelines and improve operational efficiency.
-  - Conducted automated security scans with Checkmarx and SonarQube, ensuring compliance with internal security standards.
-  - Leveraging a variety of technologies to mix hands-on development with people-focused enablement.
-  - Developing automated testing frameworks and scripts to enhance testing capabilities.
-  - Using modern scripting frameworks to automate processes and reduce manual touchpoints in infrastructure and testing.
-  - Strategically implementing testing solutions that improve predictability and efficiency in quality assurance.
-  - Wrote and maintained Helm charts for deploying applications on Kubernetes (EKS), enabling consistent and repeatable deployments.
-  - Monitored infrastructure logs and application events with AWS CloudWatch, responding to critical incidents in real-time.
-  - Used Okta for managing secure authentication and authorization workflows, improving identity and access management.
+*Oct 2024 – Feb 2025 | Guadalajara, México*
+
+- Designed and delivered cloud-native architectures on AWS (EKS, Lambda, S3) for multiple clients.
+- Built and optimized CI/CD pipelines using GitHub Actions, improving deployment reliability and reducing build failures by ~20%.
+- Implemented Infrastructure as Code and Kubernetes deployment strategies using Helm.
+- Automated operational workflows using Python and Bash, reducing manual effort and increasing delivery speed.
+- Developed APIs and system integrations to enable scalable, decoupled architectures.
+- Monitored and improved system reliability using Datadog, ensuring high availability in production environments.
+- Enforced cloud security best practices, including IAM design and secure networking.
 
 ---
 
-### **Full Stack Developer/Cloud Architect** – Freelancer
-*Dates (Jul 2016 – Feb 2020)*  
-Guadalajara, Jalisco
+### **Sr DevOps Enablement Engineer** – FICO  
 
-- **Key Responsibilities:**
-  - Developed and maintained full-stack applications using Ruby on Rails, PHP, and JavaScript, ensuring high-quality code and performance.
-  - Designed and implemented cloud infrastructure on AWS, utilizing services like EC2, S3, and RDS for scalable and reliable solutions.
-  - Created RESTful APIs to enable seamless communication between applications, enhancing data flow and system integration.
-  - Implemented CI/CD pipelines using Jenkins and GitHub Actions, automating deployment processes and ensuring code quality.
-  - Conducted security assessments and implemented encryption protocols to protect sensitive data and ensure compliance with industry standards.
-  - Collaborated with cross-functional teams to refine project requirements and deliver solutions that meet client needs.
-  - Provided technical guidance and support to clients on cloud architecture, security best practices, and application development.
+*Feb 2020 – Oct 2024 | Guadalajara, México*
 
----
-
-### **Team Lead/L3 Support** – Tata Consultancy Services (TCS)
-*Dates (Jan 2012 – Jul 2016)*  
-Guadalajara, Jalisco
-
-- **Key Responsibilities:**
-  - Maintaining and supporting infrastructure to ensure optimal functionality and reliability.
-  - Developing and managing Remedy solutions to meet organizational needs.
-  - Administering Remedy platforms to optimize performance and resolve issues.
-  - Conducting regular health checks to assess system performance and identify potential risks.
-  - Performing root cause analysis to diagnose and prevent recurring issues.
-  - Implementing proactive infrastructure maintenance strategies and monitoring.
-  - Designing and deploying custom Remedy applications and workflows.
-  - Managing upgrades and patches for Remedy systems to ensure security and efficiency.
-  - Documenting findings from health checks and root cause analyses for future improvements.
-  - Collaborating with teams to address infrastructure and application challenges effectively.
+- Enabled multiple engineering teams by designing and maintaining scalable CI/CD platforms (Jenkins, GitHub Actions, Puppet).
+- Led initiatives to transform QA and DevOps practices into continuous quality engineering models.
+- Integrated security into pipelines using tools like SonarQube and Checkmarx, improving compliance and code quality.
+- Developed automation frameworks to reduce manual processes across infrastructure and testing.
+- Standardized Kubernetes deployments (EKS) using Helm, ensuring consistency across environments.
+- Improved observability and incident response using AWS CloudWatch.
+- Strengthened identity and access management using Okta.
 
 ---
 
-### **Web Developer Senior** – Telecomunicaciones y Softwares
-*Dates (Jan 2010 – Jan 2012)*  
-Guadalajara, Jalisco
+### **Full Stack Developer / Cloud Architect** – Freelancer  
 
-- **Key Responsibilities:**
-  - Developed and maintained web applications using PHP, JavaScript, and MySQL, ensuring high performance and user experience
-  - Designed and implemented RESTful APIs to enable seamless communication between applications and systems.
-  - Managed database administration tasks, including data modeling, query optimization, and performance tuning.
-  - Conducted code reviews and testing to ensure high code quality and adherence to best practices.
+*Jul 2016 – Feb 2020 | Guadalajara, México*
 
----
-
-### **Brigade Lead / Data Capture** – Seguro Popular México (Gob Institution)
-*Dates (Dec 2009 – Jan 2010)*  
-Guadalajara, Jalisco
-
-- **Key Responsibilities:**
-  - Safety of the team members.
-  - Coordinate with the local authorities.
-  - Drive and settle on the next town.
+- Delivered end-to-end solutions combining application development and cloud infrastructure on AWS.
+- Built scalable web applications using Ruby on Rails, PHP, and JavaScript.
+- Designed RESTful APIs to support system integrations and data-driven applications.
+- Implemented CI/CD pipelines to automate deployments and enforce code quality.
+- Conducted security assessments and implemented best practices for data protection.
+- Acted as technical advisor to clients on architecture, scalability, and cloud adoption.
 
 ---
 
-## 🎓 **Education**
+### **Team Lead / L3 Support** – Tata Consultancy Services (TCS)  
 
-**Bachelo degree in Telematics**  
-Universidad de Guadalajara, Puerto Vallarta, México.
-*Dates (2005 – 2009)*  
+*Jan 2012 – Jul 2016 | Guadalajara, México*
+
+- Led infrastructure support operations, ensuring high availability and system reliability.
+- Specialized in Remedy platform administration, customization, and optimization.
+- Performed root cause analysis and implemented preventive solutions to reduce recurring incidents.
+- Designed and deployed custom workflows and automation within enterprise systems.
+- Managed upgrades, patches, and system health monitoring processes.
+
+---
+
+### **Senior Web Developer** – Telecomunicaciones y Softwares  
+
+*Jan 2010 – Jan 2012 | Guadalajara, México*
+
+- Developed high-performance web applications using PHP, JavaScript, and MySQL.
+- Designed RESTful APIs and optimized database performance.
+- Ensured code quality through testing, reviews, and best practices.
+
+---
+
+### **Brigade Lead / Data Capture** – Seguro Popular México  
+
+*Dec 2009 – Jan 2010 | México*
+
+- Coordinated field teams and logistics operations across multiple locations.
+- Ensured team safety and operational execution in dynamic environments.
 
 ---
 
 ## 🛠️ **Skills**
 
-- **Programming Languages and Frameworks:** PHP, JavaScript, TypeScript, Python, SQL, Angular, NodeJS.
-- **CI/CD & DevOps:** Jenkins, GitHub Actions, Bitbucket Pipelines, GitLab CI/CD, Terraform, Docker, Kubernetes, Ansible, Puppet, Artifactory, Jfrog, Helm, YAML, Okta, Openssl, Monitoring.
-- **Cloud Platforms:** Amazon Web Services (AWS). Microsoft Azure DevOps.
-- **OS & WebServers:** Windows, Linux, Mac, IIS, Apache, Nginx.
-- **Security Tools:** Blackduck, SonarQube, Checkmarx.
-- **DBMS:** MySQL, Oracle, SQLite, PostgreSQL, MSSQL, MongoDB, DynamoDB.
+**Cloud & Architecture:**  
+
+AWS (EKS, Lambda, S3, RDS), Serverless, Microservices, Distributed Systems  
+
+**DevOps & IaC:**  
+
+GitHub Actions, Jenkins, Terraform, Docker, Kubernetes, Helm, Ansible, Puppet  
+
+**Programming:**  
+
+TypeScript, JavaScript, PHP, Python, SQL  
+
+**Security & Quality:**  
+
+SonarQube, Checkmarx, Blackduck, IAM, Secure SDLC  
+
+**Data & Databases:**  
+
+MySQL, PostgreSQL, MongoDB, DynamoDB, Oracle, MSSQL  
+
+**Systems & Tools:**  
+
+Linux, Nginx, Apache, Datadog, CloudWatch, Okta  
 
 ---
 
-## 📜 **Certifications & Skills**
+## 📜 **Licens & Certifications**
 
-- MongoDB Query Optimization Techniques
-*Issued: 2026* – *Expires: Apr, 2036*
-
-- Claude Code in Action – Anthropic
-*Issued: 2026* – *Expires: Mar, 2036*
-
-- GitHub Actions – Microsoft
-*Issued: 2026* – *Expires: Jan, 2028*
-
-- AWS Cloud Practitioner Certification – AWS Training & Certifications
-*Issued: 2025* – *Expires: Jan, 2028*
-
-- AWS Knownledge: Amazon EKS – AWS Training & Certifications
-*Issued: 2025* – *Expires: No Expiration*
-
-- TypeScript – Udemy
-*Issued: 2024* – *Expires: No Expiration*
-
-- Stripe Certified Associate Developer – Stripe
-*Issued: 2023* – *Expires: Nov, 2025*
-
-- The Complete GitHub Actions & Workflows Guide – Udemy
-*Issued: 2023* – *Expires: No Expiration*
-
-- HashiCorp Certified Terraform Associate 2023 – Udemy
-*Issued: 2023* – *Expires: No Expiration*
-
-- AWS Cloud Practitioner Certification – AWS Training & Certifications
-*Issued: 2022* – *Expires: Feb, 2025*
-
-- Puppet – Udemy
-*Issued: 2020* – *Expires: No Expiration*
-
-- Amazon AWS Arquitecto de Soluciones – Udemy
-*Issued: 2019* – *Expires: No Expiration*
-
-- Docker – Udemy
-*Issued: 2019* – *Expires: No Expiration*
-
-- Python – Udemy
-*Issued: 2019* – *Expires: No Expiration*
-
-- Lean / Six Sigma Green Belt – TCS
-*Issued: 2015* – *Expires: No Expiration*
-
-- Solution Thinking for Breakthrough Decision – TCS
-*Issued: 2015* – *Expires: No Expiration*
-
-- Decision Analysis and Resolution (DAR) Technics – TCS
-*Issued: 2015* – *Expires: No Expiration*
-
-- ITIL 2011 Foundation – TCS
-*Issued: 2015* – *Expires: No Expiration*
-
-- Political and Ideological Training – Universidad de Guadalajara
-*Issued: 2006* – *Expires: No Expiration*
+| Name | Issued by | Issued Date |
+| :-- | :-- | :-- |
+| Ultimate AW Certified AI Practitioner AIF-C01 | Udemy | *Apr, 2026* |
+| MongoDB Query Optimization Techniques | MongoDB | *Apr, 2026* |
+| Claude Code in Action | Anthropic | *Mar, 2026* |
+| GitHub Actions | Microsoft | *Jan, 2026* |
+| AWS Cloud Practitioner Certification | AWS Training & Certifications | *Jan, 2025* |
+| Microsoft Azure Fundamentals (AZ-900): Certification | LinkedIn | *Mar, 2025* |
+| Microsoft Azure Fundamentals (AZ-900): Azure Services | LinkedIn | *Mar, 2025* |
+| Microsoft Azure Fundamentals (AZ-900): Azure Architecture and Security | LinkedIn | *Mar, 2025* |
+| Microsoft Azure Fundamentals (AZ-900): Cloud Concepts | LinkedIn | *Mar, 2025* |
+| Azure Devops Zero to Expert | Udemy | *Jan, 2025* |
+| AWS Knownledge: Amazon EKS | AWS Training & Certifications | *Jan, 2025* |
+| TypeScript | Udemy | *Nov, 2024* |
+| Stripe Certified Associate Developer | Stripe | *Nov, 2023* |
+| The Complete GitHub Actions & Workflows Guide | Udemy | *Jul, 2023* |
+| HashiCorp Certified Terraform Associate 2023 | Udemy | *Mar, 2023* |
+| Learn Git with Bitbucket and Sourcetree | Udemy | *Mar, 2022* |
+| AWS Cloud Practitioner Certification | AWS Training & Certifications | *Feb, 2022* |
+| Getting Started with Okta | Udemy | *Jan, 2022* |
+| Jenkins - Master CICD and DevOps | Udemy | *Jan, 2022* |
+| Ultimate AWS Cerfified Cloud Practitioner - 2021 | Udemy | *Dic, 2021* |
+| Puppet | Udemy | *Feb, 2020* |
+| Amazon AWS Arquitecto de Soluciones | Udemy | *Dic, 2019* |
+| Docker | Udemy | *Aug, 2019* |
+| Python | Udemy | *Aug, 2019* |
+| Lean / Six Sigma Green Belt | TCS | *Apr, 2015* – *Expires: No Expiration*
+| Solution Thinking for Breakthrough Decision | TCS | *Mar, 2015* |
+| Decision Analysis and Resolution (DAR) Technics | TCS | *Feb, 2015* |
+| ITIL 2011 Foundation | TCS | *Jan, 2015* |
+| Political and Ideological Training | Universidad de Guadalajara | *Oct, 2006* |
 
 ---
 
