@@ -104,9 +104,13 @@ Combines deep technical expertise with strategic thinking—bridging business ne
 
 ## 🛠️ **Skills**
 
+**AI**
+
+AI and ML, GenAI, Foundation Models, Responsible AI and Security, Compliance, and Governance for AI Solutions
+
 **Cloud & Architecture:**  
 
-AWS (EKS, Lambda, S3, RDS), Serverless, Microservices, Distributed Systems  
+AWS (Bedrock, EC2, EKS, Lambda, S3, Sagemaker, RDS, VPC), Serverless, Microservices, Distributed Systems  
 
 **DevOps & IaC:**  
 
@@ -134,6 +138,7 @@ Linux, Nginx, Apache, Datadog, CloudWatch, Okta
 
 | Name | Issued by | Issued Date |
 | :-- | :-- | :-- |
+| AWS Certified AI Practitioner | AWS Training & Certification | *May, 2026* |
 | Ultimate AW Certified AI Practitioner AIF-C01 | Udemy | *Apr, 2026* |
 | MongoDB Query Optimization Techniques | MongoDB | *Apr, 2026* |
 | Claude Code in Action | Anthropic | *Mar, 2026* |
